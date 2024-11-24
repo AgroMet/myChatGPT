@@ -1,0 +1,10 @@
+Package: quanta
+Type: Package
+Title: Quantitative Analysis
+Version: 1.5.0
+Author: Andrew Mercer
+Maintainer: The package maintainer <agri.meteo@gmail.com>
+Description: Quantitative Analysis.
+License: MIT
+Encoding: UTF-8
+LazyData: true
